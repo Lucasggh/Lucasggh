@@ -1,6 +1,6 @@
 ## Olá, Eu sou Lucas
 
-## Habilidades
+## Habilidades↴
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg"></img>
   <img align="center" alt="Css" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original-wordmark.svg"></img>
