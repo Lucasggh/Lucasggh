@@ -8,8 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # 🔥 MUITO IMPORTANTE
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4   # 🔥 versão nova
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -18,8 +22,8 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add .
           git commit -m "generated 3d profile" || echo "no changes"
           git push
