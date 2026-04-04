@@ -4,7 +4,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg"></img>
   <img align="center" alt="Css" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original-wordmark.svg"></img>
-
   <img align="center" alt="Html" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original-wordmark.svg"></img>
   <img align="center" alt="Tailwindcss" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg"></img>  
   <img align="center" alt="React" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg"></img>
