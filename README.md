@@ -9,7 +9,7 @@
   <img align="center" alt="Node.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg"></img>
   <img align="center" alt="Express" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original-wordmark.svg"></img>
   <img align="center" alt="SQL" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqldeveloper/sqldeveloper-original.svg"></img>
-  <img align="center" alt="Tailwindcss" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"></img>  
+  <img align="center" alt="Tailwindcss" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg"></img>  
 
   
 <div/>
